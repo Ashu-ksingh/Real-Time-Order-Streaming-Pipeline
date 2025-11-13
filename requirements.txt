@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+pyspark==3.5.1
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.30
+python-dateutil==2.9.0
+requests==2.32.3
